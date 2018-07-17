@@ -1,3 +1,16 @@
 library-manager-system.iml
 modules.xml
 misc.xml
+library-manager-system.log
+Maven_.*xml
+.idea
+src/test/resources/
+target/classes/application.yml
+target/classes/com/huibudc/springLearning/libraryManagerSystem/healtchCheck/
+target/classes/com/huibudc/springLearning/libraryManagerSystem/log/
+target/classes/com/huibudc/springLearning/libraryManagerSystem/pojos/
+target/generated-sources/
+target/generated-test-sources/
+target/test-classes/
+/.idea/compiler.xml
+/.idea/
